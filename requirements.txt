@@ -1,0 +1,6 @@
+fastapi==0.115.6
+pydantic
+SQLAlchemy
+uvicorn
+passlib[bcrypt]
+python-jose
